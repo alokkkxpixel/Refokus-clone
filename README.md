@@ -1,2 +1,4 @@
-Refokus Clone
-  src(./public/localhost_5173_.png)
+# Refokus Clone
+
+
+![App Screenshot](public/localhost_5173_.png))
